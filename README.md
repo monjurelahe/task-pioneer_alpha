@@ -1,6 +1,6 @@
 # pioneer_alpha
 
-A new Flutter project.
+Screening Task of Pioneer Alpha
 
 ## Getting Started
 
