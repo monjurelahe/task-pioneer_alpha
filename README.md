@@ -30,8 +30,8 @@ Follow these steps to set up and run the application on your local machine.
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [YOUR_GITHUB_REPOSITORY_URL]
-    cd [your_project_name]
+    git clone "https://github.com/monjurelahe/task-pioneer_alpha/"
+    cd pioneer_aplha
     ```
 
 2.  **Install Dependencies:**
@@ -65,4 +65,4 @@ The following key packages were utilized to build the application and meet the f
 | `json_annotation` / `build_runner` | Facilitates reliable and safe JSON serialization and deserialization for data models. |
 
 ---
-**[Created by: Your Name / Your GitHub Handle]**
+**[Created by: Md. Monjur E Elahe / monjurelahe]**
